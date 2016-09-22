@@ -1,0 +1,6 @@
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\bin\Release\AS-Backup.exe.config
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\bin\Release\AS-Backup.exe
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\bin\Release\AS-Backup.pdb
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\obj\Release\AS-Backup.exe
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\obj\Release\AS-Backup.pdb
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\obj\Release\AS-Backup.csprojResolveAssemblyReference.cache

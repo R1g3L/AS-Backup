@@ -1,0 +1,8 @@
+C:\Users\fantonioli\AppData\Local\Temporary Projects\AS-Backup\bin\Debug\AS-Backup.exe.config
+D:\Programmazione\C#.Net\AS-Backup\AS-Backup\bin\Debug\AS-Backup.exe.config
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\bin\Debug\AS-Backup.exe.config
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\obj\Debug\AS-Backup.csprojResolveAssemblyReference.cache
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\bin\Debug\AS-Backup.exe
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\bin\Debug\AS-Backup.pdb
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\obj\Debug\AS-Backup.exe
+D:\Programmazione\C#.Net\AS-Backup\0.0.1\AS-Backup\obj\Debug\AS-Backup.pdb

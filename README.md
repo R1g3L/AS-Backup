@@ -1,6 +1,6 @@
 # AS-Backup
-Gestione dei file del BSP, il programma crea un backup dei file eDreams e Opodo che arrivano dalla proprinter in Spagna e li rinomina salvandoli nelle relative cartelle<br/>
-All'interno della repo si trova il file di configurazione app.config:<br/>
+Gestione dei file del BSP, il programma crea un backup dei file eDreams e Opodo che arrivano dalla proprinter in Spagna e li rinomina salvandoli nelle relative cartelle<br/><br/>
+All'interno della repo si trova il file di configurazione AS-Backup.exe.config:<br/><br/>
 <b>sourceFoldereDreams:</b> percorso file sorgenti di eDreams<br/>
 <b>destinationFoldereDreams:</b> percorso di destinazione dove verranno salvati i file rinominati di eDreams<br/>
 <b>filtereDreams:</b> estensione file eDreams (es. value="DGEN-*.txt")<br/>

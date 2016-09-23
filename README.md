@@ -5,6 +5,7 @@ All'interno della repo si trova il file di configurazione app.config:
 
 sourceFoldereDreams: percorso file sorgenti di eDreams
 destinationFoldereDreams: percorso di destinazione dove verranno salvati i file rinominati di eDreams
+
 filtereDreams: estensione file eDreams (es. value="DGEN-*.txt")
 prefixeDreams: prefisso che viene aggiunto al momento di rinominare i file di eDreams
 sourceFolderOpodo: percorso file sorgenti di Opodo

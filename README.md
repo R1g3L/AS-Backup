@@ -3,7 +3,6 @@ Gestione dei file del BSP, il programma crea un backup dei file eDreams e Opodo 
 
 All'interno della repo si trova il file di configurazione app.config:
 sourceFoldereDreams: percorso file sorgenti di eDreams
-
 destinationFoldereDreams: percorso di destinazione dove verranno salvati i file rinominati di eDreams
 
 filtereDreams: estensione file eDreams (es. value="DGEN-*.txt")
